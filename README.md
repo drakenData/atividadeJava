@@ -1,5 +1,7 @@
 Princípios de Design e Arquitetura de Software
+
 Este repositório contém implementações práticas de princípios fundamentais de design e arquitetura de software, desenvolvidos como parte da disciplina de Design e Arquitetura de Software do Bacharelado em Engenharia de Software.
+
 🚀 Visão Geral
 O projeto aborda os seguintes princípios e conceitos de design:
 
